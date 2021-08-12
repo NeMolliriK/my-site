@@ -106,9 +106,6 @@ body {
   background-position: left;
 }
 
-.skill-python {
-  background-image: url("img/icon-python.svg");
-}
 .skill-html {
   background-image: url("img/icon-html.svg");
 }
@@ -150,6 +147,11 @@ body {
 
 .project-image {
   margin: 0 0 24px;
+  text-align: center;
+}
+
+.project-0-image {
+  margin: 20px 0 24px;
   text-align: center;
 }
 
